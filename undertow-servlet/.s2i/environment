@@ -1,1 +1,1 @@
-JAVA_TOOL_OPTIONS=-XX:+PrintFlagsFinal -Xlog:os+container=trace
+JAVA_TOOL_OPTIONS=-XX:-UseContainerSupport -XX:+PrintFlagsFinal -Xlog:os+container=trace
